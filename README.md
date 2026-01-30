@@ -62,16 +62,10 @@ This repository contains automated UI tests built using **Microsoft Playwright**
 Playwright/
 │
 ├── tests/                    # All test files
-│   ├── login.spec.js
-│   ├── signup.spec.js
-│   └── ...
+│   ├── example.spec.js
 │
 ├── test-results/             # Test reports, screenshots, traces
-│   ├── screenshots/
-│   ├── videos/
-│   └── traces/
-│
-├── playwright.config.js      # Playwright configuration
+|
 ├── package.json              # Dependencies & scripts
 ├── package-lock.json
 ├── .gitignore
