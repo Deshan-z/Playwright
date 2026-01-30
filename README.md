@@ -24,7 +24,6 @@
 - [Installation](#-installation)
 - [Running Tests](#-running-tests)
 - [Viewing Reports](#-viewing-reports)
-- [Configuration](#-configuration)
 - [Debugging](#-debugging)
 - [Best Practices](#-best-practices)
 - [Contributing](#-contributing)
